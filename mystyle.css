@@ -1,0 +1,33 @@
+body {background-color: black;}
+
+.one {
+    position: absolute;
+    top: 235px;
+    left: 100px;
+    right: 100px;
+    bottom: 200px;
+    width: 1000px;
+    height: 500px;
+}
+
+.one-1 {font-size: 50px; color: burlywood;}
+
+.one-2 {font-size: 100px; color: white;}
+
+.two {
+    position: absolute;
+    top: 70px;
+    left: 100px;
+    right: 120px;
+    bottom: 120px;
+    width: 30px;
+    height: 21.6px;
+}
+
+.two-1 {font-size: 30px; color: burlywood;}
+
+.brain-img {
+    width: 550px; height: 550px;
+    position: absolute;
+    left: 750px; top: 100px;
+}
