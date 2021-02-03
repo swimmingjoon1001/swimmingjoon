@@ -10,9 +10,9 @@ body {background-color: black;}
     height: 500px;
 }
 
-.one-1 {font-size: 50px; color: burlywood;}
+.one-1 {font-size: 50px; color:burlywood;}
 
-.one-2 {font-size: 100px; color: white;}
+.one-2 {font-size: 100px; color:chartreuse}
 
 .two {
     position: absolute;
@@ -27,7 +27,22 @@ body {background-color: black;}
 .two-1 {font-size: 30px; color: burlywood;}
 
 .brain-img {
-    width: 550px; height: 550px;
+    width: 400px; height: 400px;
     position: absolute;
-    left: 750px; top: 100px;
+    left: 1000px; top: 160px;
+}
+
+.lets {
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: burlywood;
+    font-size: 25px;
+    font-weight: 1000;
+    border-width: 3px;
+    border-color: burlywood;
+    border-style: solid;
 }
